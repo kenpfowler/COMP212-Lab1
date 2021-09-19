@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_301155972_Fowler_Lab1</RootNamespace>
+    <StartupObject>_301155972_Fowler_Lab1.Question2.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

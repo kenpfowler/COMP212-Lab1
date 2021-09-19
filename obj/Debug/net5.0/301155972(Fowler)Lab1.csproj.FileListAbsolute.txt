@@ -1,0 +1,16 @@
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\bin\Debug\net5.0\301155972(Fowler)Lab1.exe
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\bin\Debug\net5.0\301155972(Fowler)Lab1.deps.json
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\bin\Debug\net5.0\301155972(Fowler)Lab1.runtimeconfig.json
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\bin\Debug\net5.0\301155972(Fowler)Lab1.runtimeconfig.dev.json
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\bin\Debug\net5.0\301155972(Fowler)Lab1.dll
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\bin\Debug\net5.0\ref\301155972(Fowler)Lab1.dll
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\bin\Debug\net5.0\301155972(Fowler)Lab1.pdb
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\obj\Debug\net5.0\301155972(Fowler)Lab1.csprojAssemblyReference.cache
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\obj\Debug\net5.0\301155972(Fowler)Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\obj\Debug\net5.0\301155972(Fowler)Lab1.AssemblyInfoInputs.cache
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\obj\Debug\net5.0\301155972(Fowler)Lab1.AssemblyInfo.cs
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\obj\Debug\net5.0\301155972(Fowler)Lab1.csproj.CoreCompileInputs.cache
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\obj\Debug\net5.0\301155972(Fowler)Lab1.dll
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\obj\Debug\net5.0\ref\301155972(Fowler)Lab1.dll
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\obj\Debug\net5.0\301155972(Fowler)Lab1.pdb
+C:\Users\kenpf\source\repos\301155972(Fowler)Lab1\obj\Debug\net5.0\301155972(Fowler)Lab1.genruntimeconfig.cache
